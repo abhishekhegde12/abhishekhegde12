@@ -1,3 +1,4 @@
+![logo](https://github.com/abhishekhegde12/abhishekhegde12/blob/main/ABHISHEK%20HEGDE.png)
 <h1 align="center">Hi 👋, I'm Abhishek Hegde</h1>
 <h3 align="center">Driven and ambitious Software Developer from Gardern city</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekhegde12&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekhegde12" /> </p>
