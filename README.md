@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekhegde12&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekhegde12" /> </p>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekhegde12" alt="abhishekhegde12" /></a> </p>
-<img align="right" width="400" src="![image](https://github.com/abhishekhegde12/abhishekhegde12/assets/89866591/7875fb78-7b4f-419d-b565-565e00e42901)" alt="coding" />
+<img align="right" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="coding" />
 
 <p align="left"> <a href="https://twitter.com/abhishe25598312" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe25598312?logo=twitter&style=for-the-badge" alt="abhishe25598312" /></a> </p>
 
